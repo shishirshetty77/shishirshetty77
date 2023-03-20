@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZcob-CgRGHrTWOyk7Wx-_3sFSDzF5l5NTCFrHnRp&s)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpZcob-CgRGHrTWOyk7Wx-_3sFSDzF5l5NTCFrHnRp&s)](https://shishirshetty.io)
 <h1 align="center">Hi 👋, I'm Shishir shetty</h1>
 <h3 align="center">"Exploring and experimenting with new technologies is one of my greatest passions. I'm constantly seeking out new opportunities to learn and grow my skill set"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
