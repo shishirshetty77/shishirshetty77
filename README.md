@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://shishirshetty.io)
+
 
 <h1 align="center">Hi 👋, I'm Shishir Shetty</h1>
 <h3 align="center">🚀 Tech Geek | 💻 Developer | ⚙️ Cloud & DevOps Enthusiast</h3>
