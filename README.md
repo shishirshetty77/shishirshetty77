@@ -14,7 +14,7 @@
 - 🔭 I’m currently building: **Task-Based Alarm App (Alarmy)**  
 - 🌱 I’m learning: **Kubernetes, DevOps workflows, and scalable microservices**  
 - 💬 Ask me about: **Next.js, React Native, TypeScript, DevOps, AWS Lambda, and scalable app architecture**  
-- 📫 How to reach me: **shishirshetty217@gmail.com**  
+- 📫 How to reach me: **shishirshetty77@gmail.com**  
 - ⚡ Fun fact: I can go hours without sleep when I’m building something I love.
 
 ---
